@@ -133,6 +133,8 @@ npm start
 Runs the app in optimized production mode (still local).
 
 ---
+<img width="1900" height="880" alt="image" src="https://github.com/user-attachments/assets/18f85193-f358-4666-bf1e-12d62dbb99e5" />
+---
 
 ## 🚀 Future Roadmap
 
