@@ -45,7 +45,7 @@ Browse webtoons, read episodes, purchase premium content, and mint NFTs — all 
 1. **Clone the repository**
 
    ```bash
-   git clone <https://github.com/robin11110000/gimmemoney>
+   git clone <https://github.com/robin11110000/Toonynights>
    cd toonynights
    ```
 
